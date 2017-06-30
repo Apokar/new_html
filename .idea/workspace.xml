@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ffd496ec-e415-4697-9200-a1e500deac07" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cninfo/沪市公告/.gitkeep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cninfo/深市公告/.gitkeep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/csrc/.gitkeep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sse/上交所/.gitkeep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/szse/.gitkeep" />
-    </list>
+    <list default="true" id="ffd496ec-e415-4697-9200-a1e500deac07" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -245,8 +237,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="443" />
-    <option name="y" value="272" />
+    <option name="x" value="298" />
+    <option name="y" value="84" />
     <option name="width" value="1005" />
     <option name="height" value="797" />
   </component>
@@ -664,10 +656,9 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="443" y="272" width="1005" height="797" extended-state="0" />
-    <editor active="true" />
+    <frame x="298" y="84" width="1005" height="797" extended-state="0" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21910696" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21910696" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329927" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
