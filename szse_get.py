@@ -16,7 +16,11 @@ szse_col_tab3 = db[config.db_col_szse_tab3]
 category = '非许可和许可类重组问询函'
 source = '深交所'
 
-db.szse.drop()
+db.szse_tab1.drop()
+db.szse_tab2.drop()
+db.szse_tab3.drop()
+
+
 headers = {'Host': 'www.szse.cn',
            'Origin': "http://www.szse.cn",
            'Referer': 'http://www.szse.cn/main/disclosure/jgxxgk/wxhj/',
